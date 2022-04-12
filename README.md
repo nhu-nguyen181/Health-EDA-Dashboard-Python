@@ -24,4 +24,4 @@
 
 ##### Contact
 - quynhnhu18199@gmail.com - linkedin.com/in/nhu-nguyen-77ab4a216 
-- Project link: 
+- Project link: https://github.com/nhu-nguyen181/health-dashboard-panel
