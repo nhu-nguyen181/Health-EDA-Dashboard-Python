@@ -1,11 +1,19 @@
-# health-dashboard-panel
-### Interactive Visualization Dashboard by Panel Library in Python
+# EDA - DASHBOARD - Health issues
+### EDA & Interactive Visualization Dashboard by Panel Library in Python
 
 
 ##### Brief description: 
-- The repo contains code for my personal dashboard project. The purpose is to analyse and exam the relationships between some common diseases and people's lifestyles based on the dataset of health status of U.S residents in 2020. 
+- The repo contains 2 coding files including EDA and interactive dashboard. The purpose is to analyse and exam the relationships between some common diseases and people's lifestyles based on the dataset of health status of U.S residents in 2020. 
 
-##### To run the code, install the libraries as follows: 
+# 
+
+##### Files:
+- Heart_2020_EDA.ipynb (EDA)
+- dashboard_panel.ipynb (interactive dashboard)
+
+# 
+
+##### To run the code of dashboard file, install the libraries as follows: 
 - pandas
 `pip install pandas`
 - numpy
