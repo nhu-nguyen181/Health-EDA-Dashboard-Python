@@ -20,7 +20,9 @@
 ##### To serve the dashboard locally, use the command:
 `panel serve dashboard_panel.ipynb`
 # 
-![Dashboard gif](https://user-images.githubusercontent.com/103483437/162908171-c8f5314d-b534-40fa-9408-00c3103bfe43.gif)
+
+https://user-images.githubusercontent.com/103483437/162913823-9804f00c-b9d3-474c-ab04-8e57a2eae3ee.mov
+
 
 # 
 ##### Contact
