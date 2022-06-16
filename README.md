@@ -31,8 +31,3 @@
 
 https://user-images.githubusercontent.com/103483437/162913823-9804f00c-b9d3-474c-ab04-8e57a2eae3ee.mov
 
-
-# 
-##### Contact
-- quynhnhu18199@gmail.com - linkedin.com/in/nhu-nguyen-77ab4a216 
-- Project link: https://github.com/nhu-nguyen181/health-dashboard-panel
